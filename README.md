@@ -1,6 +1,6 @@
 <!-- LiloZ95 Profile README -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,100:48cae4&height=180&section=header&text=Hey%20there%20👋%20I'm%20Khalil%20aka%20Lilo&fontSize=32&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,100:48cae4&height=180&section=header&text=Hey%20there%20👋%20I'm%20Khalil&fontSize=32&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
 </div>
 
 <p align="center">
